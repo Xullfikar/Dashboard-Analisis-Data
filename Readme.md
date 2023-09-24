@@ -5,3 +5,6 @@ Studi Kasus Belajar Analisis Data dengan Python
 ```bash
 streamlit run <Nama File>
 ```
+
+## Tampilan Dashboard
+![Gambar Dashboard](./hasil.png)
